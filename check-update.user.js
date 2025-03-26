@@ -16,7 +16,7 @@
     // 检查更新的函数
     function getUpdate() {
         var currentVersion = GM_info.script.version; // 获取当前脚本版本
-        var scriptHomepage = 'https://greasyfork.org/zh-CN/scripts/489766'; // 脚本主页地址
+        var scriptHomepage = 'https://greasyfork.org/zh-CN/scripts/····'; // 脚本主页地址
 
         GM_xmlhttpRequest({
             method: 'GET',
